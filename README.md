@@ -1,6 +1,6 @@
 # promoted-twitter-remover
 
-This is a custom [Google Chrome](https://www.google.com/chrome/) extension that hides promoted twitter contnet for a much more pleasent tweeting expierince.
+This is a custom [Google Chrome](https://www.google.com/chrome/) extension that hides promoted twitter content for a much more pleasent tweeting experience.
 
 ## Installation
 
