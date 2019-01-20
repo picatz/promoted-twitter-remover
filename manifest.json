@@ -5,8 +5,8 @@
     "description": "Limit exposure to promoted twitter contnet",
     "content_scripts": [
         {
-            "js": [
-                "content.js"
+            "css": [
+                "hide.css"
             ],
             "matches": [
                 "*://*.twitter.com/*"
